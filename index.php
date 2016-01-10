@@ -1,5 +1,4 @@
 
-
 <link rel="stylesheet" href="style/stylesheet.css"/>
 <script src="scripts/core.js"/>
 
